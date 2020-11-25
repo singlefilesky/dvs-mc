@@ -1,0 +1,3 @@
+execute if entity @a[scores={isSleeping=1..}] as @a[scores={isSleeping=1..}] run tellraw @a ["",{"selector":"@s","italic":true},{"text":" slept and thus the ","italic":true},{"text":"day began anew \u2600","italic":true,"color":"yellow"}]
+execute if entity @a[scores={isSleeping=1..}] run time set 1t
+execute if entity @a[scores={isSleeping=1..}] as @a[scores={isSleeping=1..}] run scoreboard players reset @s isSleeping
