@@ -20,4 +20,5 @@ A from-scratch data pack aiming to bring quality of life improvements and more R
 - Raycasting system for spells / guns
 ## resources
 Resources for custom model data have been created via sprites from OpenGameArt.org
+
 The absense of custom model data will not affect overall functionality of this datapack.
