@@ -9,7 +9,7 @@ Singleplayer: `%AppData%/.minecraft/saves/<World Name>/datapacks/`
 
 Multiplayer: `/<World Name>/datapacks/`
 
-NPCs (daily/weekly bonuses) require an entity to be summoned with the "dailyNPC" and "weeklyNPC" tags.
+The use of NPCs (daily/weekly bonuses) requires entities summoned/modified to have the "dailyNPC" and "weeklyNPC" tags, respectively.
 ## dvsdata
 A from-scratch data pack aiming to bring quality of life improvements and more RPG-like aspects to multiplayer vanilla minecraft servers.
 - New bows and enchants
