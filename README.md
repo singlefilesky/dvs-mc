@@ -1,14 +1,14 @@
 # dvs-mc
 Adding additional functionality and content to vanilla minecraft.
-This project consists of two directories which must be installed separately.
-
+Server: **mc.voidcord.org**
 ## dvsdata
 A from-scratch data pack aiming to bring quality of life improvements and more RPG-like aspects to multiplayer vanilla minecraft servers.
-- Torches and Lanterns held in players main or offhand now grant temporary night-vision while held.
-- Saddles are craftable from leather
-- Rotten flesh can be smelted into leather
-
+- New bows and enchants
+- Safezone function to disappear hostiles in select areas
+- Effecient sleep handling for multiplayer (1 for all)
+- Custom recipes for saddles and leather
+- Daily and weekly bonuses for players
+- Raycasting system for spells / guns
 ## resources
-Resources pack for use with items and accessories (models created in Blockbench)
-- Current Scythe model pending redesign.
-- Planned additions: Claymores, Katanas, Hookswords, Lances, 
+Resources for custom model data have been created via sprites from OpenGameArt.org
+The absense of custom model data will not affect overall functionality of this datapack.
